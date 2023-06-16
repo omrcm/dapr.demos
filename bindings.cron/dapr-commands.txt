@@ -1,0 +1,3 @@
+########### Terminalden aşağıdaki kodu çalıştırmamız gerekiyor ###########
+
+dapr run --app-id UygulamaAdiniz --app-port 5282 --components-path Components -- dotnet run
